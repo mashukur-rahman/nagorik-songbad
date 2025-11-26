@@ -4,7 +4,7 @@
 
 Nagorik Songbad is a full-stack, production-ready platform that empowers citizens to publish news responsibly. Every submission passes through our AI-powered verification pipeline before it reaches the nationwide feed, ensuring unmatched transparency and trust.
 
-![Architecture](/architecture.jpg)
+![Architecture](./public/architecture.jpg)
 
 ---
 
@@ -79,7 +79,7 @@ Nagorik Songbad is Bangladesh’s first AI-verified citizen journalism network. 
 
 Nagorik Songbad follows a modular, cloud-native architecture built for national scale.
 
-![System Architecture](/architecture.jpg)
+![System Architecture](./public/architecture.jpg)
 
 ### Core Components
 
